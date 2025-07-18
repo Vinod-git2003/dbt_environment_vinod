@@ -1,0 +1,6 @@
+sources:
+  - name: source_db
+    database: PRACTICE_DB
+    schema: DBT_CICD_SH
+    tables:
+      - name: BIG_SALES
