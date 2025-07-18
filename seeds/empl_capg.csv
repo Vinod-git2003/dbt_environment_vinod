@@ -1,0 +1,6 @@
+empid,ename,job,salary,country,company
+1,vinod,consultant,100000,india,capgemini
+2,indu,analyst,110000,england,IBM
+3,roop,data engineer,120000,USA,TCS
+4,satya,manager,140000,Germany,L&T
+5,sai,cloud engineer,130000,australia,capgemini
