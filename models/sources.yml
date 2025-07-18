@@ -4,3 +4,11 @@ sources:
     schema: DBT_CICD_SH
     tables:
       - name: BIG_SALES
+      - name: BKP_USERS
+      - name: BKP_CAP_EMP
+
+  - name: source1_db
+    database: BKP_DBT_DB
+    schema: DBT_SH
+    tables:
+      - name: BKP_PERSON_INFO
